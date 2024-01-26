@@ -14,6 +14,8 @@ namespace demoGit
         string name = "123 bon ngay";
         string newOne = " nhom12345";
 
+        string l10 = "A o dau ta ban chieu gon,\r\nChang hay chieu ay het hay con.";
+        string l11 = "Xuan thu phong do chung bao tuoi,\r\nDa co chong chua, duoc may con?";
         static void Main(string[] args)
         {
             
