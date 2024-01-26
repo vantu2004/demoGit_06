@@ -9,10 +9,11 @@ namespace demoGit
 {
     internal class Program
     {
-        int a = 12;
-        int b = 18;
+        int a = 100;
+        int b = 200;
         string name = "123 bon ngay";
-        string newOne = " ANhANh";
+        string newOne = " nhom12345";
+
         static void Main(string[] args)
         {
             
