@@ -12,7 +12,7 @@ namespace demoGit
         int a = 12;
         int b = 18;
         string name = "123 bon ngay";
-        
+        string newOne = " ANhANh";
         static void Main(string[] args)
         {
             
