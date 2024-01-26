@@ -11,8 +11,12 @@ namespace demoGit
     {
         int a = 12;
         int b = 18;
-        string name = "123 bon ngay";
-        
+        string l0 = "A o dau ta ban chieu gon";
+        string l1 = "Chang hay chieu ay het hay con";
+        string l2 = "Xuan thu phong do chung bao tuoi";
+        string l3 = "Da co chong chua, duoc may con?";
+
+
         static void Main(string[] args)
         {
             
