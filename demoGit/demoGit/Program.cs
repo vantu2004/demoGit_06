@@ -11,8 +11,8 @@ namespace demoGit
     {
         int a = 22222;
         int b = 22222;
-        int a = 123456;
-        int b = 123456;
+        int c= 123456;
+        int d = 123456;
         string name = "123 bon ngay";
         string newOne = " nhom12345";
 
